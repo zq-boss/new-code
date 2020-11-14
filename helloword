@@ -1,0 +1,7 @@
+//zq_boss hellword
+#include <stdio.h>
+int main()
+{
+  printf("hellword!\n");
+  return 0;
+}
